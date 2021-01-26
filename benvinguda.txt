@@ -1,2 +1,3 @@
 JuanMiguel
-(B) Modificació 01 Main Alumne
+(B) Modificació 01 Main JuanMiguel
+(D) Modificació 02 Main JuanMiguel
