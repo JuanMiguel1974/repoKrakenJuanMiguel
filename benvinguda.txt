@@ -1,5 +1,6 @@
 JuanMiguel
 (A) Benvinguda a la branca 01 JuanMiguel
 (B) Modificació 01 Main JuanMiguel
+(c) Benvinguda a la branca 02 JuanMiguel
 (D) Modificació 02 Main JuanMiguel
 (E) Afegim imatge a branca01
